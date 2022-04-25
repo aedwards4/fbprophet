@@ -115,9 +115,7 @@ def forecast():
     # 5. Plot forecast
     forecast_fig = model.plot(forecast)
     forecast_fig.legend()
-    forecast_fig.set_title('FB Prophet Generated Data For ' + type)
-    forecast_fig.set_xlabel('Time Steps')
-    forecast_fig.set_ylabel('Issues')
+    forecast_fig.suptitle('FB Prophet Generated Data For ' + type, weight="bold")
     forecast_fig.savefig(LOCAL_IMAGE_PATH + FBPROPHET_GENERATED_IMAGE_NAME)
     # -----------------------------
 
