@@ -57,7 +57,6 @@ This API will accept only POST request
 @app.route('/api/forecast', methods=['POST'])
 def forecast():
     body = request.get_json()
-    print(body)
     issues = body["issues"] # issues_reponse
     type = body["type"]     # "created_at"
     repo_name = body["repo"]    
