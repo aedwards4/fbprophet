@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fbprophet-348300",
+  "private_key_id": "2d809303e1909e680699b94769fc7f13e6e15caa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8ebGMfOMxfsFo\nP6juhNM2NOmUUn5Y6bnn4izP+4g5UHHIK+t46MJ20TAECKLLUDYbkP7tEfDYiu9F\nhBFUDNZzp5z2O/HokLqdp6AMnCrGQmZ0IfXAAA6uFkLMeG0jhPZo+0/GecjG9gj6\nFjaK0Oj8DBJMMNHLmwEmPg+aWkDIYB0DZNpNVm5tbp9WdBWYI2ETmp7LTmnXXIhz\nw37qhTY4BOJ4w/X/TWAIhitMAa5D28CUXemlst3qn5D9jnikQsi5GQG6HaQl4ntm\n6yBbdeQ2QKjfm07ZWZ67LpeWiiAPJI/+57XFQ/ARniT+3p4GzMRavXlZmEgZAaDz\n0+8CRniJAgMBAAECggEAOoxZLcmr7/eu0BoaecHUNN4aA2Pe8PLmN9ToU9GQ3zEQ\nr3yJQP2ZTzyrfE1MePkZXdXcgzuUBEigjIk6ss/sHHBgj5NOkg7Hker9Cn3GweDl\nn8Te6P57kPPEW207hhGrVDBhd0fkqX3Lixi0Z8n+3jFHy9hMi8HCiSU1Rp8rybKc\n8fGIXJPESUQP8v+J0ASHvRo02q+DfjDp/iBC2acshxc1s4yICJGhAxePTV/EepKs\n70rBhswEQEUpUEXhvX3hWjGHyxmPA3ID0ymG4TxyL9gGqk9HYBH6oPUF1E0oIFzz\nVKiR5liwZ6CWGk0Gsxaw1rpNs+N4AH4HI4+Ch+gigwKBgQDrnVqgqCZHceqff2XR\nPpujGPQSa47K2Dgf3KUnHclNu89Q9rUr7jzZpVoTVAZ9WUzB6LzsDK92KnNw2cPK\nGaNbab+7VnuJ2pn4B/exax5BtT7BcHBiRt1qJusyxumlTA8Tk1vhhEYg99LHxsgV\nQygrFk1YnIad0Gxi6eHzmqbGFwKBgQDMyD9zGoBPj3BXsrJJQmhT2QoTq/o3asaT\nF4oro4oRAoJgbRYx2ZCDtmcR4IqRip5kbkgCPLCmtuF+hozYlhU/Jc3A7u4iNBUv\nwP2bDbMtyGjdYGsaQFfrO3jbfglowUWwNQyUaErQC9FdmQYkq0GDAuW7ks9V5VgH\nDIvbNWR6XwKBgQCSAXy7ufeepnUiSawqsoV32GrHT2e5Q6vj8rNVPhwU06FxJrC2\nfHew18qt14/99WyfbT5FeMbyjvPips+xWZnld+6chMchchmfnjBb/WlOhqZQ8QBz\npj5nHZ76ZFE9YZimJNb3NSTQIUK5EfHDW051BOkBVF4HRbUkxpKChv96GQKBgQCx\ngPX2qMcFr5i6e6uscsKJw3zHlm+aL5SWlXXv457epaUrPgNaDHMGqEnpJhAWnegz\nt5/1SHP63lTRXoGhj141UWhqzvBdd3XR4eAx0Ys5qRi0o0nTBGjw/qkA4Nv5EGZ+\nmU0hKtGGSmgdUHIRwNxVWmKV12ie1OAbpBVqWnqQ0wKBgHHQPuwHg6LESV47S6Co\ni7EnVf2ITugYQyyPVsMjutEqITqyN2b+uc0mgcj2fPTHbtWHAaUeVZlvsPl6ZnrY\nQY01Zpo8fuxhiekBU6LrZ4lZGHxOm2SOWkKQRInIvHdQ5YK1lgUK7EdtccVYUGKm\nMknoljPap7oX8Ss1RkOizLd0\n-----END PRIVATE KEY-----\n",
+  "client_email": "fbprophet@fbprophet-348300.iam.gserviceaccount.com",
+  "client_id": "117454933050145095909",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fbprophet%40fbprophet-348300.iam.gserviceaccount.com"
+}

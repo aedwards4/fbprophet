@@ -1,0 +1,8 @@
+flask
+pandas
+numpy
+matplotlib
+google-cloud-storage
+flask-cors
+pystan
+prophet
